@@ -1,4 +1,5 @@
 Nama  : Alberta Elita Epil
 Nim   : 21101124
-
+matakuliah : cloud computing
+jam kuliah : 7.50 wita
 
